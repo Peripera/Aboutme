@@ -51,9 +51,9 @@ Esta app es un ejemplo simple del uso de componentes básicos.
 
 ### Pantalla del emulador Android
 <p align="center">
-  <img src="./assets/assets/main.png" width="200"/>
-  <img src="./assets/assets/android.png" width="200"/>
-  <img src="./assets/assets/android2.png" width="200"/>
+  <img src="./assets/images/main.png" width="200"/>
+  <img src="./assets/images/android.png" width="200"/>
+  <img src="./assets/images/android2.png" width="200"/>
 </p>
 
 
