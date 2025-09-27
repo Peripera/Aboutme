@@ -57,9 +57,13 @@ Esta app es un ejemplo simple del uso de componentes básicos.
 </p>
 
 
-## 🛠 Scripts útiles
+
+## 🛠 Scripts elementales
+
 
 - `npm start` — Inicia el proyecto con Expo.  
 - `npm run android` — Ejecuta en emulador Android.  
 - `npm run ios` — Ejecuta en simulador iOS (solo Mac).  
+
 - `npm run web` — Ejecuta la app en navegador.  
+
