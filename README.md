@@ -51,13 +51,13 @@ Esta app es un ejemplo simple del uso de componentes básicos.
 
 ### Pantalla del emulador Android
 <p align="center">
-  <img src="./assets/screenshots/main.png" width="200"/>
-  <img src="./assets/screenshots/android.png" width="200"/>
-  <img src="./assets/screenshots/android2.png" width="200"/>
+  <img src="./assets/assets/main.png" width="200"/>
+  <img src="./assets/assets/android.png" width="200"/>
+  <img src="./assets/assets/android2.png" width="200"/>
 </p>
 
 
-## 🛠 Scripts útiles
+## 🛠 Scripts elementales
 
 - `npm start` — Inicia el proyecto con Expo.  
 - `npm run android` — Ejecuta en emulador Android.  
