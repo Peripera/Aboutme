@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mi-app-expo",
-    "slug": "mi-app-expo",
+    "name": "About-me",
+    "slug": "About-me",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "miappexpo",
+    "scheme": "Aboutme",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -38,7 +38,8 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-video"
     ],
     "experiments": {
       "typedRoutes": true,
